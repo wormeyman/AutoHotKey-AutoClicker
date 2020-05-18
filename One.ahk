@@ -11,8 +11,9 @@
     }
 return
 *F1::
-    Suspend
-    Pause, 1
+    ; Suspend
+    ; Pause, 1
+    Pause
 return
 
 *F2::
