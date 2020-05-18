@@ -1,7 +1,7 @@
 Loop
 {
     Click, Down, Left
-    Sleep 2147483647
+    Sleep 10
     Click, Up, Left
     Sleep 10
 }
